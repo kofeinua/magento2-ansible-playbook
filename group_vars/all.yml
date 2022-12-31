@@ -7,7 +7,7 @@ php_version: 7.2
 mariadb_version: 10.1
 
 # Nginx configuration
-server_hostname: yourdomain.co.uk
+server_hostname: creativesystems.shop
 magento_dir: /var/www/html/magento
 
 # Database configuration
@@ -22,11 +22,11 @@ magento_private_key: MAGENTO_PRIVATE_KEY
 
 magento_mode: default
 
-base_url: http://yourdomain.co.uk/
+base_url: http://creativesystems.shop/
 use_rewrites: 1
 
-language: en_GB
-currency: GBP
+language: pl_PL
+currency: PLN
 
 backend_frontname: admin
 admin_firstname: admin
